@@ -1,4 +1,4 @@
-# 👋 สวัสดีครับ ผมชื่อ จิรภัสร์ (Chiraphat)
+# 👋 สวัสดีครับ ผมชื่อ พิชิตพล วรุณดี (บิ๊ก)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Looking%20for%20Internship-green?style=for-the-badge" alt="Status">
